@@ -1,0 +1,30 @@
+table { 
+  border: 1px solid; 
+   border-collapse: collapse;
+  }
+
+td, th {
+    border: .1px solid black;
+}
+
+body{
+  color: #ffffff;
+  background-color: #000000
+}
+
+
+/* unvisited link */
+a:link {
+  color: yellow;
+}
+
+/* visited link */
+a:visited {
+  color: orange;
+}
+
+/* mouse over link */
+a:hover {
+  color: lime; 
+}
+
